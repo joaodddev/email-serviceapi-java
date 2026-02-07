@@ -48,6 +48,13 @@ src/main/java/com/seunome/emailservice
 
 ---
 
+## 👨‍💻 Autor
+
+Desenvolvido por João Victor
+📌 Projeto criado para fins de aprendizado, portfólio e desafios técnicos backend.
+
+---
+
 ## 📡 Endpoints Disponíveis
 
 ### ➤ Enviar e-mail
