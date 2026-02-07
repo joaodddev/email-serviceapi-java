@@ -1,0 +1,7 @@
+/home/joao/projetos-java/emailservice/src/main/java/com/joaodddev/emailservice/EmailserviceApplication.java
+/home/joao/projetos-java/emailservice/src/main/java/com/joaodddev/emailservice/controller/EmailController.java
+/home/joao/projetos-java/emailservice/src/main/java/com/joaodddev/emailservice/dto/EmailRequestDTO.java
+/home/joao/projetos-java/emailservice/src/main/java/com/joaodddev/emailservice/exception/EmailSendException.java
+/home/joao/projetos-java/emailservice/src/main/java/com/joaodddev/emailservice/infra/AwsSesEmailSender.java
+/home/joao/projetos-java/emailservice/src/main/java/com/joaodddev/emailservice/service/EmailService.java
+/home/joao/projetos-java/emailservice/src/main/java/com/joaodddev/emailservice/service/EmailServiceImpl.java
